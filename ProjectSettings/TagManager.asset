@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - Player1
+  - Player2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Chains
+  - Ball
+  - EndArea
+  - BreakableWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3441818613
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Chain
+    uniqueID: 3924354637
+    locked: 0
+  - name: Player
+    uniqueID: 2767438711
+    locked: 0
+  - name: Ball
+    uniqueID: 3496816863
+    locked: 0
+  - name: FrontArm
+    uniqueID: 378744693
+    locked: 0
+  - name: FrontAll
+    uniqueID: 903631025
+    locked: 0
